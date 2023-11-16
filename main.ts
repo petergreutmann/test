@@ -6,3 +6,6 @@ console.log(mySecondCode)
 
 const myThirdCode : string = "No more automatens"
 console.log(myThirdCode)
+
+const myFourthCode : string = "Maybe it works now."
+console.log(myFourthCode)
